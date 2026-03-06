@@ -1,16 +1,40 @@
-## Hi there 👋
+# JackCode
 
-<!--
-**JackCodeIO/JackCodeIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JackCode develops casino platforms and integration infrastructure for iGaming operators.
 
-Here are some ideas to get you started:
+## Core Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Online casino platform development
+- Game provider integrations
+- Casino payment gateway integrations
+- Telegram casino infrastructure
+- API solutions for gaming platforms
+
+## Platform Architecture
+
+Our solutions focus on scalable infrastructure for modern online casinos including:
+
+- Game aggregation
+- Payment systems integration
+- Operator back-office tools
+- Player account management
+- Real-time gaming APIs
+
+## Website
+
+https://jackcode.io
+
+## Key Pages
+
+Online casino platform  
+https://jackcode.io/online-casino/
+
+Telegram casino infrastructure  
+https://jackcode.io/telegram-casino/
+
+API integration solutions  
+https://jackcode.io/api-integration/
+
+---
+
+JackCode builds reliable software infrastructure for the global iGaming industry.
